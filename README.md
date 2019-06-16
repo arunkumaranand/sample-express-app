@@ -66,3 +66,14 @@ PS C:\AKA\03_Projects\software-armoury-kb\my_express_app> npm install swagger-ui
 # install the swagger-jsdoc
 PS C:\AKA\03_Projects\software-armoury-kb\my_express_app> npm install swagger-jsdoc --save
 ```
+
+## Push the repo to GitHub
+
+1. Initailize a local git repository `git init` and commit the code.
+2. Create a Github repository and push the code to new repo using below code
+
+```Powershell
+PS C:\AKA\03_Projects\software-armoury-kb\my_express_app> git remote add origin https://github.com/arunkumaranand/sample-express-app.git
+PS C:\AKA\03_Projects\software-armoury-kb\my_express_app> git push -u origin master
+```
+
