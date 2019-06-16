@@ -4,7 +4,7 @@ ___
 1. Minimal and flexible Node.js web application framework
 2. Support of lot of HTTP utility methods and middlewares
 
-## My fisr Express web App
+## My firt Express web App
 ```PowerShell
 # create a new folder
 PS C:\AKA\03_Projects\software-armoury-kb> md my_express_app
